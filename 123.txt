@@ -8,3 +8,7 @@ asdfasf
  git push -u origin master
  
  git log命令显示从最近到最远的提交日志
+ 
+ git reset --hard HEAD^  ”回退到上一个版本“
+ git diff
+ git status命令可以让我们时刻掌握仓库当前的状态
